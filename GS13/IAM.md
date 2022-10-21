@@ -33,9 +33,36 @@ Population :
 * impliquer l'utilisateur 
 * améliorer le niveau global
 
-## Gestion du cycle de vie 
+# Gestion du cycle de vie 
 
-### Bonnes pratiques 
+## Bonnes pratiques 
 
 * vérifier étapes  par étapes 
 
+## Role mining 
+
+* UN role  -> un métier 
+
+## Segregation of Duties
+
+* déclare 2 role incompatible 
+
+## IAI  Audit
+
+Permet la mise en place d'outil d'audit  6> vérifier la conformité des permissions et grègles locales 
+
+* tracabilité et histori
+* vérification pratique et écart
+* respect regle norme 
+
+**OBJECTIF**
+
+* améliorer l'expérience utilisateur 
+* améliorer le niveaude sécu global de l'infra -> règle d'auth et d'autorisation
+
+
+# Notions de base 
+
+## SSO
+
+ 
