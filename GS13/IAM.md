@@ -35,7 +35,7 @@ Population :
 
 # Gestion du cycle de vie 
 
-## Bonnes pratiques 
+## bonnes pratiques 
 
 * vérifier étapes  par étapes 
 
@@ -64,5 +64,10 @@ Permet la mise en place d'outil d'audit  6> vérifier la conformité des permiss
 # Notions de base 
 
 ## SSO
+## protocole SAML
+## OPen ID 
+## connaitre les protocoles 
+
+
 
  
