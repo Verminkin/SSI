@@ -1,22 +1,22 @@
-#VISION GLobal IAM 
+# VISION GLobal IAM 
 
  
 
-##Gestion ID
+## Gestion ID
 cycle de vie 
 référentiel
 
-##Gestion habilitation	
+## Gestion habilitation	
 catalogue aplicatif 
 gestion habilitation
 
-##Intelligence analyse ID
+## Intelligence analyse ID
 Reporting 
-##Management 
+## Management 
 
-*Single signe ON 
-*Authentification forte 
-*Control accès
+* Single signe ON 
+* Authentification forte 
+* Control accès
 
 ## PAM CIAM 
 
