@@ -24,10 +24,11 @@ compte à privilège
 
 Population /client/adhérent/client
 
-## Objectif 
-	**Garentir le bon droit**
-	**Partager une identité entre les différents systèmes** 
-	Fiabiliser le provisionning
-	impliquer l'utilisateur 
-	améliorer le niveau global
+### Objectif
+ 
+* **Garentir le bon droit**
+* **Partager une identité entre les différents systèmes** 
+* Fiabiliser le provisionning
+* impliquer l'utilisateur 
+* améliorer le niveau global
 
